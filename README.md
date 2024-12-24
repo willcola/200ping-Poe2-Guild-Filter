@@ -1,12 +1,12 @@
 # 200ping-Poe2-Guild-Filter
 
 ## Adding Filters
-If you know what you're doing create a branch and Pull Request with you filter changes and ping me to merge it.
+If you know what you're doing create a branch and Pull Request with your filter changes and ping me to merge it.
 
 If you don't know how to do that ping me and I'll just add them. 
 
 ## Installing (Windows only *Linux and Mac are cringe*)
-Download git: https://git-scm.com/
+Download [git](https://git-scm.com/).
 
 ![img](/docs/1.png?raw=true "")
 ![img](/docs/2.png?raw=true "")
@@ -21,8 +21,7 @@ This is where your filters are stored, we need to do a couple things here.
 
 If you're using your own filter rename your current filter to "NeverSinks Litefilter.filter"
 
-(Optional) If you don't currently use a filter
-download NeverSinks's filter: https://github.com/NeverSinkDev/NeverSink-PoE2litefilter/releases/tag/0.2.1 Click on the source code file and save it. Open the file and drag and drop the "NeverSinks Litefilter.filter" into POE2's filter folder.
+(Optional) If you don't currently use a filter download [NeverSinks's filter](https://github.com/NeverSinkDev/NeverSink-PoE2litefilter/releases/tag/0.2.1). Click on the source code file and save it. Open the file and drag and drop the "NeverSinks Litefilter.filter" into POE2's filter folder.
 
 Your filter folder should look something like this:
 
@@ -91,3 +90,5 @@ You're done.
 Now when you launch the game the program will grab the latest guild filters combine them with your current filters into a new filter called "GUILD_COMBINED"
 
 Make sure you set this as your active filters in game.
+
+When the game launches a new cmd window will launch along side with it. After is says "Combined file saved to..." you can close it if you want.
