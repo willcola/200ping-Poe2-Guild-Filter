@@ -1,9 +1,0 @@
-@echo off
-
-:: get the latest item filters
-git -C "%POE2_FILTERS%\200ping-Poe2-Guild-Filter" pull
-
-:: Call the PowerShell script
-powershell -ExecutionPolicy Bypass -File "%POE2_FILTERS%\200ping-Poe2-Guild-Filter\combine.ps1"
-
-:: "C:\Users\Will\Documents\My Games\Path of Exile 2\200ping-Poe2-Guild-Filter\run.bat" %COMMAND%
