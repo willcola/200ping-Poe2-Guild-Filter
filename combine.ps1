@@ -1,8 +1,8 @@
 # Get the path of the current directory
-$currentDirectory = Get-Location
+$currentDirectory = $Env:POE2_FILTERS + "\200ping-Poe2-Guild-Filter"
 
 # Get the parent directory
-$parentDirectory = Split-Path -Path (Get-Location) -Parent
+$parentDirectory = Split-Path -Path $currentDirectory -Parent
 
 # Define the file paths
 $inputFilePath = Join-Path $parentDirectory "NeverSinks Litefilter.filter"
