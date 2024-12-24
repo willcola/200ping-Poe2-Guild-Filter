@@ -1,0 +1,118 @@
+#--------------------------
+# Custom Finders
+#--------------------------
+
+#--------------------------
+# Fritz
+#--------------------------
+
+## TEMPLATE
+# Show
+# BaseType "TEMPLATE"
+# SetTextColor 255 255 255 255
+# SetBorderColor 243 196 142 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
+
+#--------------------------
+# Logi
+#--------------------------
+
+## TEMPLATE
+# Show
+# BaseType "TEMPLATE"
+# SetTextColor 255 255 255 255
+# SetBorderColor 46 204 113 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
+
+#--------------------------
+# Soph
+#--------------------------
+
+## TEMPLATE
+# Show
+# BaseType "TEMPLATE"
+# SetTextColor 255 255 255 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
+
+#--------------------------
+# Will
+#--------------------------
+
+## TEMPLATE
+# Show
+# BaseType "TEMPLATE"
+# SetTextColor 255 13 123 255
+# SetBorderColor 255 13 123 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
+
+## Expert Gothic Quarterstaff
+Show
+BaseType "Expert Gothic Quarterstaff"
+SetTextColor 255 13 123 255
+SetBorderColor 255 13 123 255
+SetBackgroundColor 0 0 0 255
+PlayAlertSound 6 300
+PlayEffect Red
+MinimapIcon 0 Red Star
+SetFontSize 40
+
+## Expert Spiral Wraps
+Show
+BaseType "Expert Spiral Wraps"
+SetTextColor 255 13 123 255
+SetBorderColor 255 13 123 255
+SetBackgroundColor 0 0 0 255
+PlayAlertSound 6 300
+PlayEffect Red
+MinimapIcon 0 Red Star
+SetFontSize 40
+
+## Expert Hunting Shoes
+Show
+BaseType "Expert Hunting Shoes"
+SetTextColor 255 13 123 255
+SetBorderColor 255 13 123 255
+SetBackgroundColor 0 0 0 255
+PlayAlertSound 6 300
+PlayEffect Red
+MinimapIcon 0 Red Star
+SetFontSize 40
+
+## Expert Waxed Jacket
+Show
+BaseType "Expert Waxed Jacket"
+SetTextColor 255 13 123 255
+SetBorderColor 255 13 123 255
+SetBackgroundColor 0 0 0 255
+PlayAlertSound 6 300
+PlayEffect Red
+MinimapIcon 0 Red Star
+SetFontSize 40
+
+## Expert Tribal Mask
+Show
+BaseType "Expert Tribal Mask"
+SetTextColor 255 13 123 255
+SetBorderColor 255 13 123 255
+SetBackgroundColor 0 0 0 255
+PlayAlertSound 6 300
+PlayEffect Red
+MinimapIcon 0 Red Star
+SetFontSize 40
