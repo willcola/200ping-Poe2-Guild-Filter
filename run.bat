@@ -8,5 +8,3 @@ powershell -ExecutionPolicy Bypass -File "%POE2_FILTERS%\200ping-Poe2-Guild-Filt
 
 :: run the game
 %1
-
-exit
