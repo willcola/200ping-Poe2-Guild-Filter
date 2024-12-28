@@ -47,126 +47,126 @@
 # MinimapIcon 0 Red Star
 # SetFontSize 40
 
-## Omen Sceptre
-Show
-BaseType "Omen Sceptre"
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Omen Sceptre
+# Show
+# BaseType "Omen Sceptre"
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Solar Amulet
-Show
-BaseType "Solar Amulet"
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Solar Amulet
+# Show
+# BaseType "Solar Amulet"
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Rattling Sceptre
-Show
-BaseType "Rattling Sceptre"
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Rattling Sceptre
+# Show
+# BaseType "Rattling Sceptre"
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Expert Feathered Tiara
-Show
-BaseType "Expert Feathered Tiara"
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Feathered Tiara
+# Show
+# BaseType "Expert Feathered Tiara"
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Expert Chain Tiara
-Show
-BaseType "Expert Chain Tiara"
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Chain Tiara
+# Show
+# BaseType "Expert Chain Tiara"
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Expert Hexer's Robe
-Show
-BaseType "Expert Hexer's Robe"
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Hexer's Robe
+# Show
+# BaseType "Expert Hexer's Robe"
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Expert Altar Robe
-Show
-BaseType "Expert Altar Robe"
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Altar Robe
+# Show
+# BaseType "Expert Altar Robe"
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Expert Intricate Gloves
-Show
-BaseType "Expert Intricate Gloves"
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Intricate Gloves
+# Show
+# BaseType "Expert Intricate Gloves"
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Expert Jewelled Gloves
-Show
-BaseType "Expert Jewelled Gloves"
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Jewelled Gloves
+# Show
+# BaseType "Expert Jewelled Gloves"
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Expert Feathered Sandals
-Show
-BaseType "Expert Feathered Sandals"
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Feathered Sandals
+# Show
+# BaseType "Expert Feathered Sandals"
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Expert Silk Slippers
-Show
-BaseType "Expert Silk Slippers"
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Silk Slippers
+# Show
+# BaseType "Expert Silk Slippers"
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
 #--------------------------
 # Will
@@ -185,6 +185,7 @@ SetFontSize 40
 
 ## Expert Gothic Quarterstaff
 Show
+Rarity = Rare
 BaseType "Expert Gothic Quarterstaff"
 SetTextColor 255 13 123 255
 SetBorderColor 255 13 123 255
@@ -196,6 +197,7 @@ SetFontSize 40
 
 ## Expert Spiral Wraps
 Show
+Rarity = Rare
 BaseType "Expert Spiral Wraps"
 SetTextColor 255 13 123 255
 SetBorderColor 255 13 123 255
@@ -207,6 +209,7 @@ SetFontSize 40
 
 ## Expert Hunting Shoes
 Show
+Rarity = Rare
 BaseType "Expert Hunting Shoes"
 SetTextColor 255 13 123 255
 SetBorderColor 255 13 123 255
@@ -218,6 +221,7 @@ SetFontSize 40
 
 ## Expert Waxed Jacket
 Show
+Rarity = Rare
 BaseType "Expert Waxed Jacket"
 SetTextColor 255 13 123 255
 SetBorderColor 255 13 123 255
@@ -229,6 +233,7 @@ SetFontSize 40
 
 ## Expert Tribal Mask
 Show
+Rarity = Rare
 BaseType "Expert Tribal Mask"
 SetTextColor 255 13 123 255
 SetBorderColor 255 13 123 255
