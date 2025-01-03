@@ -237,10 +237,14 @@ SetFontSize 40
 # MinimapIcon 0 Red Star
 # SetFontSize 40
 
-## Expert Gothic Quarterstaff
+## HIDE Expert Crackling Quarterstaff
+Hide
+BaseType = "Expert Crackling Quarterstaff"
+
+## Quarterstaffs
 Show
 Rarity = Rare
-BaseType "Expert Gothic Quarterstaff"
+Class = "Quarterstaves"
 SetTextColor 255 13 123 255
 SetBorderColor 255 13 123 255
 SetBackgroundColor 0 0 0 255
