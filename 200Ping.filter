@@ -17,29 +17,29 @@
 # MinimapIcon 0 Red Star
 # SetFontSize 40
 
-## Expert Feathered Sandals
-Show
-Rarity = Rare
-BaseType "Expert Feathered Sandals"
-SetTextColor 243 196 142 255
-SetBorderColor 243 196 142 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Feathered Sandals
+# Show
+# Rarity = Rare
+# BaseType "Expert Feathered Sandals"
+# SetTextColor 243 196 142 255
+# SetBorderColor 243 196 142 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Expert Keth Raiment
-Show
-Rarity = Rare
-BaseType "Expert Keth Raiment"
-SetTextColor 243 196 142 255
-SetBorderColor 243 196 142 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Keth Raiment
+# Show
+# Rarity = Rare
+# BaseType "Expert Keth Raiment"
+# SetTextColor 243 196 142 255
+# SetBorderColor 243 196 142 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
 #--------------------------
 # Logi
@@ -148,53 +148,53 @@ SetFontSize 40
 # MinimapIcon 0 Red Star
 # SetFontSize 40
 
-## Expert Feathered Tiara
-Show
-Rarity = Rare
-BaseType "Expert Feathered Tiara"
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Feathered Tiara
+# Show
+# Rarity = Rare
+# BaseType "Expert Feathered Tiara"
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Expert Hexer's Robe
-Show
-Rarity = Rare
-BaseType "Expert Hexer's Robe"
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Hexer's Robe
+# Show
+# Rarity = Rare
+# BaseType "Expert Hexer's Robe"
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Expert Intricate Gloves
-Show
-Rarity = Rare
-BaseType "Expert Intricate Gloves"
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Intricate Gloves
+# Show
+# Rarity = Rare
+# BaseType "Expert Intricate Gloves"
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Expert Feathered Sandals
-Show
-Rarity = Rare
-BaseType "Expert Feathered Sandals"
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Feathered Sandals
+# Show
+# Rarity = Rare
+# BaseType "Expert Feathered Sandals"
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
 ## Wands
 Show
@@ -209,18 +209,18 @@ PlayEffect Red
 MinimapIcon 0 Red Star
 SetFontSize 40
 
-## Wands
-Show
-Rarity = Rare
-Class = "Focus"
-ItemLevel >= 70
-SetTextColor 218 112 205 255
-SetBorderColor 218 112 205 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Focus
+# Show
+# Rarity = Rare
+# Class = "Focus"
+# ItemLevel >= 70
+# SetTextColor 218 112 205 255
+# SetBorderColor 218 112 205 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
 #--------------------------
 # Will
@@ -254,50 +254,50 @@ PlayEffect Red
 MinimapIcon 0 Red Star
 SetFontSize 40
 
-## Expert Spiral Wraps
-Show
-Rarity = Rare
-BaseType "Expert Spiral Wraps"
-SetTextColor 255 13 123 255
-SetBorderColor 255 13 123 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Spiral Wraps
+# Show
+# Rarity = Rare
+# BaseType "Expert Spiral Wraps"
+# SetTextColor 255 13 123 255
+# SetBorderColor 255 13 123 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Expert Hunting Shoes
-Show
-Rarity = Rare
-BaseType "Expert Hunting Shoes"
-SetTextColor 255 13 123 255
-SetBorderColor 255 13 123 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Hunting Shoes
+# Show
+# Rarity = Rare
+# BaseType "Expert Hunting Shoes"
+# SetTextColor 255 13 123 255
+# SetBorderColor 255 13 123 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Expert Waxed Jacket
-Show
-Rarity = Rare
-BaseType "Expert Waxed Jacket"
-SetTextColor 255 13 123 255
-SetBorderColor 255 13 123 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Waxed Jacket
+# Show
+# Rarity = Rare
+# BaseType "Expert Waxed Jacket"
+# SetTextColor 255 13 123 255
+# SetBorderColor 255 13 123 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
 
-## Expert Tribal Mask
-Show
-Rarity = Rare
-BaseType "Expert Tribal Mask"
-SetTextColor 255 13 123 255
-SetBorderColor 255 13 123 255
-SetBackgroundColor 0 0 0 255
-PlayAlertSound 6 300
-PlayEffect Red
-MinimapIcon 0 Red Star
-SetFontSize 40
+# ## Expert Tribal Mask
+# Show
+# Rarity = Rare
+# BaseType "Expert Tribal Mask"
+# SetTextColor 255 13 123 255
+# SetBorderColor 255 13 123 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
