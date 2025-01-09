@@ -20,15 +20,21 @@ Open your game and open the settings. Under the "Game" tab you should see the fi
 
 This is where your filters are stored, we need to do a couple things here.
 
-If you're using your own filter rename your current filter to `NeverSinks Litefilter.filter`
+If you're using your own filter rename your current filter to 
 
-(Optional) If you don't currently use a filter download [NeverSinks's filter](https://github.com/NeverSinkDev/NeverSink-PoE2litefilter/releases/tag/0.2.1). Click on the source code file and save it. Open the file and drag and drop the "NeverSinks Litefilter.filter" into POE2's filter folder.
+    NeverSinks Litefilter.filter
+
+(Optional) If you don't currently use a filter download [NeverSinks's filter](https://github.com/NeverSinkDev/NeverSink-PoE2litefilter). Click on the source code file and save it. Open the file and drag and drop the "NeverSinks Litefilter.filter" into POE2's filter folder.
 
 Your POE2's filter folder should look something like this:
 
 ![img](/docs/11.png?raw=true "")
 
-Open up the "NeverSinks Litefilter.filter" with notepad. Paste `### BOUNDARY_SPLIT` towards the top of the filter file on a new line and save it. In mine I place it after the "Overrides - Uniques, Valuables" sections.
+Open up the "NeverSinks Litefilter.filter" with notepad. Paste 
+
+    ### BOUNDARY_SPLIT
+
+towards the top of the filter file on a new line and save it. In mine I place it after the "Overrides - Uniques, Valuables" sections.
 
 ![img](/docs/14.png?raw=true "")
 
@@ -48,15 +54,25 @@ Under system variables click on "New..."
 
 ![img](/docs/8.png?raw=true "")
 
-Set variable name to `POE2_FILTERS`
+Set variable name to
+
+    POE2_FILTERS
+
 Set the variable value to the copied address and click ok.
 
 ![img](/docs/9.png?raw=true "")
 
 Click on "New..." again to create another variable.
 
-Set variable name to `RUN_GIT`
-Set the variable value to `C:\Program Files\Git\cmd\git.exe` and click ok.
+Set variable name to
+
+    RUN_GIT
+
+Set the variable value to
+
+    C:\Program Files\Git\cmd\git.exe
+
+and click ok.
 
 ![img](/docs/10.png?raw=true "")
 
