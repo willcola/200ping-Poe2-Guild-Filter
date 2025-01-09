@@ -3,6 +3,32 @@
 #--------------------------
 
 #--------------------------
+# Mei
+#--------------------------
+
+## TEMPLATE
+# Show
+# BaseType "TEMPLATE"
+# SetTextColor 30 92 151 255
+# SetBorderColor 30 92 151 255
+# SetBackgroundColor 0 0 0 255
+# PlayAlertSound 6 300
+# PlayEffect Red
+# MinimapIcon 0 Red Star
+# SetFontSize 40
+
+## Expert Dualstring Bow
+Show
+BaseType "Expert Dualstring Bow"
+SetTextColor 30 92 151 255
+SetBorderColor 30 92 151 255
+SetBackgroundColor 0 0 0 255
+PlayAlertSound 6 300
+PlayEffect Red
+MinimapIcon 0 Red Star
+SetFontSize 40
+
+#--------------------------
 # Fritz
 #--------------------------
 
@@ -237,14 +263,10 @@ SetFontSize 40
 # MinimapIcon 0 Red Star
 # SetFontSize 40
 
-## HIDE Expert Crackling Quarterstaff
-Hide
-BaseType = "Expert Crackling Quarterstaff"
-
 ## Quarterstaffs
 Show
 Rarity = Rare
-BaseType "Expert "
+BaseType "Expert Gothic Quarterstaff" "Expert Crescent Quarterstaff" "Expert Long Quarterstaff" "Expert Barrier Quarterstaff" "Expert Slicing Quarterstaff"
 Class = "Quarterstaves"
 SetTextColor 255 13 123 255
 SetBorderColor 255 13 123 255
